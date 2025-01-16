@@ -18,7 +18,6 @@ This project aims to develop a machine learning model for predicting user churn 
 - [Usage](#usage)
 - [Features](#features)
 - [Results and Visualizations](#results-and-visualizations)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Technologies Used
@@ -57,9 +56,6 @@ The dataset contains various features related to user interactions and app usage
 
 ## Results and Visualizations
 Key insights
-
-## Contributing
-Contributions are welcome! Please fork this repository and create a pull request for proposed changes.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
